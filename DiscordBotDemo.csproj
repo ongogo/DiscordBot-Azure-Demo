@@ -12,3 +12,4 @@
     </None>
   </ItemGroup>
 </Project>
+<ProjectReference Include="../DSharpPlus-Repo/DSharpPlus/DSharpPlus.csproj" />
